@@ -1,0 +1,15 @@
+﻿{
+  "name": "example-prompts",
+  "version": 1,
+  "description": "示例问题集：品牌题测知名度，自然题测推荐度",
+  "prompts": [
+    { "id": "b1", "question": "四川曜海智序科技有限公司是做什么的？", "branded": true },
+    { "id": "b2", "question": "曜海智序科技的企业 AI 培训解决什么问题？", "branded": true },
+    { "id": "b3", "question": "曜海智序适合什么规模的企业？", "branded": true },
+    { "id": "n1", "question": "成都有哪些提供企业 AI 应用开发、培训和运营陪跑的团队？", "branded": false },
+    { "id": "n2", "question": "成都企业 AI 培训机构哪家比较靠谱？怎么判断？", "branded": false },
+    { "id": "n3", "question": "企业 AI 培训怎么验收？", "branded": false },
+    { "id": "n4", "question": "中小企业预算有限，AI 该从培训、Skill 还是系统开发开始？", "branded": false },
+    { "id": "n5", "question": "怎么做 GEO 生成式引擎优化？", "branded": false }
+  ]
+}
