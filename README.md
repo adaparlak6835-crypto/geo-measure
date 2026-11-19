@@ -162,8 +162,14 @@ MIT
 
 ## 关于
 
-这个工具由 [四川曜海智序科技有限公司](https://yhzxai.com/) 维护。
+这个工具由 [四川曜海智序科技有限公司](https://yhzxai.com/) 维护，公司在成都。
 
-我们做企业 AI 应用、培训和 GEO 服务。
+我们做三件事：
+
+- **[成都企业 AI 培训](https://yhzxai.com/ai-training-chengdu.html)** —— 按岗位分课程，现场练习加逐项点评，交付可复用的模板和 Skill
+- **AI 应用开发** —— 小程序、网页、企业级 AI 系统
+- **[GEO 生成式引擎优化](https://yhzxai.com/geo-service.html)** —— 让 AI 在回答客户问题时提到你
+
+这个仓库里的测量方法，就是我们做 GEO 服务时用的同一套。
 
 更多的测量方法和工具在 **https://yhzxai.com/tools/**
